@@ -1,0 +1,18 @@
+.page
+{
+    background-color : orange;
+}
+p
+{
+    font-size : 16px;
+}
+.heading
+{
+    text-align : center;
+    text-decoration : underline;
+}
+.image
+{
+    display : block;
+    margin : 0 auto;
+}
