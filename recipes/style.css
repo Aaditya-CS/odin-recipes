@@ -2,7 +2,7 @@
 {
     background-color : orange;
 }
-p
+p,li
 {
     font-size : 16px;
 }
@@ -15,4 +15,8 @@ p
 {
     display : block;
     margin : 0 auto;
+}
+.secondpage
+{
+    background-color : yellow;
 }
